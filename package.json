@@ -1,0 +1,19 @@
+{
+  "name": "npmtestnov112018",
+  "version": "1.0.0",
+  "description": "testing npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedlas/npmtestnov112018.git"
+  },
+  "author": "suman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedlas/npmtestnov112018/issues"
+  },
+  "homepage": "https://github.com/tedlas/npmtestnov112018#readme"
+}
